@@ -1,1 +1,1 @@
-# 25R.github.io
+# RikkaJavaBot.github.io
